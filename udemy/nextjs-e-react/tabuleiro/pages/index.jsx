@@ -1,10 +1,11 @@
 import styles from '../styles/Home.module.css'
-import House from "../components/House";
+import Line from "../components/Line";
 
 export default function Home() {
     return (
         <div className={styles.container}>
-            <House />
+            <Line />
+            <Line />
         </div>
     )
 }
