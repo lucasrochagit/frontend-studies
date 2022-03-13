@@ -1,6 +1,6 @@
 import {Fragment} from "react";
 
-export default function fragment() {
+export default function fragment1() {
     return (
         <Fragment>
             <h1>Title</h1>
